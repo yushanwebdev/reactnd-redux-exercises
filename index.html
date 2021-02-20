@@ -78,7 +78,7 @@
         }
       }
 
-      function goals(state = {}, action) {
+      function goals(state = [], action) {
         switch (action.type) {
         case ADD_GOAL:
           return state.concat([action.goal])
