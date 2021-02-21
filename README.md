@@ -29,4 +29,4 @@ This is the first exercise in the Redux chapter. Here covers the fundamentals of
 
 [Q] Take a look at the `index.html` file and fix the 8 bugs.
 
-[A] Repo contains the bugs fixed file. [Demo](https://reactnd-redux-exercise-one.netlify.app/ "Exercie One")
+[A] This branch contains the bugs fixed file. [Demo](https://reactnd-redux-exercise-one.netlify.app/ "Exercie One")
