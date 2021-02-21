@@ -6,7 +6,6 @@ This is the first exercise in the Redux chapter. Here covers the fundamentals of
 
 
 ## Lesson Challenge #1
----
 
 [Q1] **What are the advantages of using Redux?**
 
@@ -27,7 +26,6 @@ This is the first exercise in the Redux chapter. Here covers the fundamentals of
 <br>
 
 ## Lesson Challenge #2
----
 
 [Q] Take a look at the `index.html` file and fix the 8 bugs.
 
